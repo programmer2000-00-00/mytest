@@ -1,3 +1,5 @@
 2-fayl o'zgariwlari
 
 salom
+ikkinchi qator 
+uchinchi qator
